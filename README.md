@@ -28,5 +28,5 @@ Um **Jogo da Velha** (Tic-Tac-Toe) clássico desenvolvido para dispositivos iOS 
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/Lopes-dev50/jogo-da-velha-swiftui.git
+   git clone https://github.com/Lopes-dev50/jogodavelha.git
 
